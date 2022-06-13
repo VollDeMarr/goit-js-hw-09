@@ -1,4 +1,4 @@
-// one more little changes
+// one more little changes -v 2.0
 import { Notify } from 'notiflix';
 
 const form = document.querySelector(`.form`);
